@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
 *pall - function to print stack's elements
-*@line_number: will not be used
+*@line_number: will not be used , we usse attribute not void
 *@stack: pointer to the head of the doubly linked list
 *Return: Nothing
 */

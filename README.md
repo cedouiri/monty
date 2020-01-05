@@ -1,4 +1,4 @@
-# monty
+# monty interpreter
 
 ## General
 What do LIFO and FIFO mean

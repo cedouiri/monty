@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
  *pop - removes the last inserted element
- *@line_number: number of lines
+ *@line_number: number of lines  in the file
  *@stack: pointer to the pointer to the head
  *Return: nothing
  */
